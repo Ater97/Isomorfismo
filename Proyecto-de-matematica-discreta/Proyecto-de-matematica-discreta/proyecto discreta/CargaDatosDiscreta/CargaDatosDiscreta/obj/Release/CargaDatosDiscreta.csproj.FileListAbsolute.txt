@@ -1,0 +1,6 @@
+C:\Users\sebas\Desktop\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\bin\Release\CargaDatosDiscreta.exe.config
+C:\Users\sebas\Desktop\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\bin\Release\CargaDatosDiscreta.exe
+C:\Users\sebas\Desktop\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\bin\Release\CargaDatosDiscreta.pdb
+C:\Users\sebas\Desktop\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\obj\Release\CargaDatosDiscreta.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\obj\Release\CargaDatosDiscreta.exe
+C:\Users\sebas\Desktop\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\obj\Release\CargaDatosDiscreta.pdb

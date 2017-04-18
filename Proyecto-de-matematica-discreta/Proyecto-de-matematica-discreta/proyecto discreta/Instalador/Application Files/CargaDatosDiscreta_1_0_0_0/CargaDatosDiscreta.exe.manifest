@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CargaDatosDiscreta.exe" version="1.0.0.0" publicKeyToken="c1b695c483a22634" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CargaDatosDiscreta" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CargaDatosDiscreta.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CargaDatosDiscreta.exe" size="13752">
+      <assemblyIdentity name="CargaDatosDiscreta" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>/utFkzJTxUH9Nmrj0j6Smbk2/v4AK3zp1PufwvxpQds=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CargaDatosDiscreta.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=David\DavidAle" issuerKeyHash="496ec48fa76ef3736b05a8e874cbc873d69ce85b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>kMpcud4QpcufmFLYv4eb/NG1rSkiVTkDiiKloCZQyQk=</DigestValue></Reference></SignedInfo><SignatureValue>VA9ypfT5ZKFLM6j7BE5s9sEqPqOQK0kk0aR5o6iR7axV5Osa3Cpi8UEzGxCn4vh0jlR4HvVRbGUNM8JvfbT6c1wAnrBk+vQo8v49s9Lria82Hw2Lr6t1idet/sBlW278ocrWOrY+7ZjqFvG9f4FuY/JdXu3mumcTtQYasDZ2y2s=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0h5jWvjEhaklHswXDGF/gh0HI1CP6gmCsINB2ay009uHPGMtOt+FxCIClZeN7CQBJj/IVuQ/OqqxSNuG3Tgo2mxuYtaVyAI8A/80Ki7iDD/eLNRJtKtLK4xrT9ogghG56IW535YPxtwT+P7H2hspXE/4Gh4NPBfd7vMAJFYs6Hk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="09c95026a0a5228a0339552229adb5d1fc9b87bfd852989fcba510deb95cca90" Description="" Url=""><as:assemblyIdentity name="CargaDatosDiscreta.exe" version="1.0.0.0" publicKeyToken="c1b695c483a22634" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=David\DavidAle</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>n+zbTbutEXlQ9UVoelYgIC6CINVpd59a/7AfP6c/o4k=</DigestValue></Reference></SignedInfo><SignatureValue>xUivVMShJXo4rtQ3KzuQLZvx5Pz0+MIm+nZN0jdU9JMuwwh6UL1FrGzLf+dYANtcg+w3Alu/11TEPYFuXABBjoWYFf/3u6DGc9SsXbxTq/osEP+yrUzkOoyuKWjmnF95Up12HF/rSOt7CDx7o5yN8CmqfQAfmkuMNST6HyWHnnQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0h5jWvjEhaklHswXDGF/gh0HI1CP6gmCsINB2ay009uHPGMtOt+FxCIClZeN7CQBJj/IVuQ/OqqxSNuG3Tgo2mxuYtaVyAI8A/80Ki7iDD/eLNRJtKtLK4xrT9ogghG56IW535YPxtwT+P7H2hspXE/4Gh4NPBfd7vMAJFYs6Hk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQdToAMD45fZJJxtXpZ+LDTzANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwARABhAHYAaQBkAFwARABhAHYAaQBkAEEAbABlMB4XDTE2MTIwMzAyNDQzOVoXDTE3MTIwMzA4NDQzOVowJzElMCMGA1UEAx4cAEQAYQB2AGkAZABcAEQAYQB2AGkAZABBAGwAZTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA0h5jWvjEhaklHswXDGF/gh0HI1CP6gmCsINB2ay009uHPGMtOt+FxCIClZeN7CQBJj/IVuQ/OqqxSNuG3Tgo2mxuYtaVyAI8A/80Ki7iDD/eLNRJtKtLK4xrT9ogghG56IW535YPxtwT+P7H2hspXE/4Gh4NPBfd7vMAJFYs6HkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAhrnOoWXgxJ1wr63CompU8zbns0685tsmJxMVW0H6een1awagh1/truX5NeYxnxGRnf4eu42zBjqYsJ8AdIcwKD3rt1D7eEYBuJ+qL6eTrP1py7BEWElWMPkmuMmN9xTT5yLP+FAt6eQYaIkeVEj/pXf/xCtes7xFOTwNHgkr0sA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,31 @@
+c:\users\harry\documents\visual studio 2015\Projects\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.exe.config
+c:\users\harry\documents\visual studio 2015\Projects\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.exe
+c:\users\harry\documents\visual studio 2015\Projects\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.pdb
+c:\users\harry\documents\visual studio 2015\Projects\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.csprojResolveAssemblyReference.cache
+c:\users\harry\documents\visual studio 2015\Projects\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.exe
+c:\users\harry\documents\visual studio 2015\Projects\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.pdb
+D:\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.exe.config
+D:\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.exe
+D:\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.pdb
+C:\Users\sebas\Desktop\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.exe.config
+C:\Users\sebas\Desktop\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.exe
+C:\Users\sebas\Desktop\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.pdb
+C:\Users\sebas\Desktop\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.exe
+C:\Users\sebas\Desktop\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.pdb
+C:\Users\sebas\Desktop\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.csprojResolveAssemblyReference.cache
+D:\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.exe
+D:\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.pdb
+D:\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.csprojResolveAssemblyReference.cache
+F:\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.exe.config
+F:\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.exe
+F:\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.pdb
+C:\Users\DavidAle\Desktop\Proyecto-de-matematica-discreta\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.exe.config
+C:\Users\DavidAle\Desktop\Proyecto-de-matematica-discreta\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.exe.manifest
+C:\Users\DavidAle\Desktop\Proyecto-de-matematica-discreta\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.application
+C:\Users\DavidAle\Desktop\Proyecto-de-matematica-discreta\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.exe
+C:\Users\DavidAle\Desktop\Proyecto-de-matematica-discreta\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\bin\Debug\CargaDatosDiscreta.pdb
+C:\Users\DavidAle\Desktop\Proyecto-de-matematica-discreta\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.csprojResolveAssemblyReference.cache
+C:\Users\DavidAle\Desktop\Proyecto-de-matematica-discreta\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.exe.manifest
+C:\Users\DavidAle\Desktop\Proyecto-de-matematica-discreta\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.application
+C:\Users\DavidAle\Desktop\Proyecto-de-matematica-discreta\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.exe
+C:\Users\DavidAle\Desktop\Proyecto-de-matematica-discreta\proyecto discreta\CargaDatosDiscreta\CargaDatosDiscreta\obj\Debug\CargaDatosDiscreta.pdb
